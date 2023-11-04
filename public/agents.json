@@ -1,0 +1,23 @@
+[
+    { 
+      "Image": "https://i.ibb.co/J3wJChW/handsome-man-with-his-arms-crossed-white-background.jpg",
+      "Name": "John Smith",
+      "Rating": 4.8
+    },
+    {
+      "Image": "https://i.ibb.co/8dgLRYH/front-view-happy-lawyer-with-smartphone.jpg",
+      "Name": "Jane Doe",
+      "Rating": 4.5
+    },
+    {
+      "Image": "https://i.ibb.co/X5RXPWJ/portrait-smiling-young-businesswoman-holding-eyeglasses-hand-looking-camera.jpg",
+      "Name": "Michael Johnson",
+      "Rating": 4.2
+    },
+    {
+      "Image": "https://i.ibb.co/kDxmp7D/young-man-wearing-blue-outfit-with-arms-crossed.jpg",
+      "Name": "Emily Brown",
+      "Rating": 4.9
+    }
+  ]
+  

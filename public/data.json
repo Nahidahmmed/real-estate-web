@@ -1,0 +1,307 @@
+[
+    {
+        "image": "https://i.ibb.co/pRgqsr0/cozy-studio-apartment-with-bedroom-living-space.jpg",
+        "location": "123 Main Street, Cityville",
+        "price": 1200,
+        "rating": 4.5,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1500,
+        "type": "Sophisticated Residence",
+        "description": "Nestled in a friendly neighborhood, this charming family home offers a cozy and inviting ambiance. The highlight is its generous backyard, providing ample space for outdoor activities, making it the perfect setting for family gatherings and relaxation. Inside, you'll find a comfortable layout designed for modern living, making this house the ideal place to call home.",
+        "for": "FOR SALE",
+        "amenities": {
+            "Garage": true,
+            "Outdoor_Pool": false,
+            "Garden": true,
+            "Security_System": true,
+            "Internet": true,
+            "Telephone": false,
+            "Air_Conditioning": true,
+            "Heating": true,
+            "Fireplace": false,
+            "Balcony": true,
+            "TV_Cable": false
+        },
+        "comments": [
+            {
+                "user": "JohnDoe123",
+                "comment": "Great place to live!"
+            },
+            {
+                "user": "JaneSmith456",
+                "comment": "Love the garden!"
+            }
+        ],
+        "manager_Image": "https://i.ibb.co/J3wJChW/handsome-man-with-his-arms-crossed-white-background.jpg",
+        "manager_name": "John Manager",
+        "manager_id": "65463809bf8760125dc49c67"
+    },
+    {
+        "image": "https://i.ibb.co/xYW7DgZ/interior-modern-comfortable-hotel-room-1.jpg",
+        "location": "456 Elm Street, Suburbia",
+        "price": 950,
+        "rating": 4.0,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "square_feet": 1100,
+        "description": "Situated in a picturesque suburban neighborhood, this charming apartment offers a serene and welcoming environment. One of its standout features is a private balcony that provides the perfect space for enjoying the outdoors, whether you want to sip morning coffee or unwind after a long day. This apartment is a lovely place to call home, combining the comforts of suburban living with the added bonus of your very own outdoor sanctuary.",
+        "for": "FOR RENT",
+        "type": "Hauntingly Beautiful Estate",
+        "amenities": {
+            "Garage": false,
+            "Outdoor_Pool": true,
+            "Garden": false,
+            "Security_System": true,
+            "Internet": true,
+            "Telephone": false,
+            "Air_Conditioning": true,
+            "Heating": true,
+            "Fireplace": false,
+            "Balcony": true,
+            "TV_Cable": false
+        },
+        "comments": [
+            {
+                "user": "JaneSmith456",
+                "comment": "Nice neighborhood!"
+            },
+            {
+                "user": "DavidBrown123",
+                "comment": "Good value for the price."
+            }
+        ],
+        "manager_Image": "https://i.ibb.co/8dgLRYH/front-view-happy-lawyer-with-smartphone.jpg",
+        "manager_name": "Alice Manager",
+        "manager_id": "65463ad6bf8760125dc49c68"
+    },
+    {
+        "image": "https://i.ibb.co/pdFsGDs/luxury-bedroom-design.jpg",
+        "location": "789 Oak Avenue, Countryside",
+        "price": 1800,
+        "rating": 4.7,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_feet": 2200,
+        "description": "This spacious countryside home is a tranquil haven, surrounded by the beauty of nature. The property features a lush garden, perfect for growing your favorite plants or enjoying outdoor activities. Inside, a welcoming fireplace graces the living area, creating a cozy atmosphere for those cold winter nights. This home provides a wonderful blend of country living and modern comfort, making it an idyllic retreat",
+        "for": "FOR SALE",
+        "type": "Luxury Mansion",
+        "amenities": {
+            "Garage": true,
+            "Outdoor_Pool": false,
+            "Garden": true,
+            "Security_System": true,
+            "Internet": true,
+            "Telephone": false,
+            "Air_Conditioning": true,
+            "Heating": true,
+            "Fireplace": true,
+            "Balcony": false,
+            "TV_Cable": false
+        },
+        "comments": [
+            {
+                "user": "LindaWilson567",
+                "comment": "Beautiful house!"
+            },
+            {
+                "user": "MarkDavis890",
+                "comment": "Great for families."
+            }
+        ],
+        "manager_Image": "https://i.ibb.co/X5RXPWJ/portrait-smiling-young-businesswoman-holding-eyeglasses-hand-looking-camera.jpg",
+        "manager_name": "Eleanor Manager",
+        "manager_id": "65463b2dbf8760125dc49c69"
+    },
+    {
+        "image": "https://i.ibb.co/bFZr15X/luxury-bedroom-hotel.jpg",
+        "location": "101 Pine Street, Beachfront",
+        "price": 2500,
+        "rating": 4.9,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "square_feet": 3000,
+        "description": "Nestled along the pristine shoreline, this luxurious beachfront villa is the epitome of seaside opulence. It offers a private pool, inviting you to indulge in refreshing swims while savoring the ocean breeze. The villa boasts breathtaking panoramic views of the azure waters, providing a daily spectacle of natural beauty. A true haven of extravagance, this beachfront retreat promises an unparalleled coastal lifestyle.",
+        "for": "FOR SALE",
+        "type": "Sophisticated Residence",
+        "amenities": {
+            "Garage": true,
+            "Outdoor_Pool": true,
+            "Garden": true,
+            "Security_System": true,
+            "Internet": true,
+            "Telephone": true,
+            "Air_Conditioning": true,
+            "Heating": true,
+            "Fireplace": false,
+            "Balcony": true,
+            "TV_Cable": false
+        },
+        "comments": [
+            {
+                "user": "SophiaJohnson234",
+                "comment": "Paradise on the beach!"
+            },
+            {
+                "user": "MichaelBrown789",
+                "comment": "Worth every penny."
+            }
+        ],
+        "manager_Image": "https://i.ibb.co/kDxmp7D/young-man-wearing-blue-outfit-with-arms-crossed.jpg",
+        "manager_name": "George Manager",
+        "manager_id": "65463b80bf8760125dc49c6a"
+    },
+
+    {
+        "image": "https://i.ibb.co/XF19jCp/interior-modern-comfortable-hotel-room.jpg",
+        "location": "555 Maple Avenue, Mountain Retreat",
+        "price": 1600,
+        "rating": 4.6,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1800,
+        "description": "This mountain retreat is a serene escape, enveloped by the majestic beauty of the natural world. Inside, a cozy fireplace beckons, offering warmth and comfort as you take in the breathtaking panoramic views of the surrounding peaks and valleys. This retreat is the perfect fusion of rustic charm and modern relaxation, promising an unforgettable mountain experience.",
+        "for": "FOR RENT",
+        "type": "House With a Lovely Glass",
+        "amenities": {
+            "Garage": false,
+            "Outdoor_Pool": false,
+            "Garden": true,
+            "Security_System": true,
+            "Internet": true,
+            "Telephone": false,
+            "Air_Conditioning": true,
+            "Heating": true,
+            "Fireplace": true,
+            "Balcony": true,
+            "TV_Cable": false
+        },
+        "comments": [
+            {
+                "user": "OliviaSmith567",
+                "comment": "Peaceful getaway!"
+            },
+            {
+                "user": "JamesDavis123",
+                "comment": "Loved the fireplace."
+            }
+        ],
+        "manager_Image": "https://i.ibb.co/J3wJChW/handsome-man-with-his-arms-crossed-white-background.jpg",
+        "manager_name": "Megan Manager",
+        "manager_id": "65463809bf8760125dc49c67"
+    },
+    {
+        "image": "https://i.ibb.co/6Jv7Yhz/luxury-chill-bedroom-hotel.jpg",
+        "location": "333 Oak Street, Urban Loft",
+        "price": 1800,
+        "rating": 4.4,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_feet": 1600,
+        "description": "Step into this modern urban loft, a stylish living space that captures the essence of city living. From your own private balcony, you can enjoy breathtaking city views while savoring the excitement of the urban environment. With its contemporary design and the allure of the cityscape, this loft offers the perfect blend of modern convenience and urban sophistication",
+        "for": "FOR RENT",
+        "type": "Mordern Residence in New York",
+        "amenities": {
+            "Garage": false,
+            "Outdoor_Pool": false,
+            "Garden": false,
+            "Security_System": true,
+            "Internet": true,
+            "Telephone": true,
+            "Air_Conditioning": true,
+            "Heating": true,
+            "Fireplace": false,
+            "Balcony": true,
+            "TV_Cable": false
+        },
+        "comments": [
+            {
+                "user": "WilliamJohnson789",
+                "comment": "Great city living!"
+            },
+            {
+                "user": "SophiaMiller123",
+                "comment": "Amazing views."
+            }
+        ],
+        "manager_Image": "https://i.ibb.co/8dgLRYH/front-view-happy-lawyer-with-smartphone.jpg",
+        "manager_name": "Robert Manager",
+        "manager_id": "65463ad6bf8760125dc49c68"
+    },
+    {
+        "image": "https://i.ibb.co/R914XZz/luxury-classic-modern-bedroom-suite-hotel.jpg",
+        "location": "777 River Road, Riverside Cottage",
+        "price": 1350,
+        "rating": 4.3,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "square_feet": 1200,
+        "description": "This modern urban loft offers a chic and contemporary living space, complete with sweeping city views from the comfort of your own balcony. Whether you're taking in the vibrant cityscape or enjoying the fresh air on your private balcony, this loft combines sleek, city living with all the comforts you need for a stylish urban lifestyle.",
+        "for": "FOR SALE",
+        "type": "Luxury Mansion",
+        "amenities": {
+            "Garage": false,
+            "Outdoor_Pool": false,
+            "Garden": true,
+            "Security_System": false,
+            "Internet": true,
+            "Telephone": false,
+            "Air_Conditioning": true,
+            "Heating": true,
+            "Fireplace": true,
+            "Balcony": false,
+            "TV_Cable": false
+        },
+        "comments": [
+            {
+                "user": "EllaWilson234",
+                "comment": "Lovely place by the river!"
+            },
+            {
+                "user": "JohnSmith789",
+                "comment": "Relaxing and cozy."
+            }
+        ],
+        "manager_Image": "https://i.ibb.co/X5RXPWJ/portrait-smiling-young-businesswoman-holding-eyeglasses-hand-looking-camera.jpg",
+        "manager_name": "Laura Manager",
+        "manager_id": "65463b2dbf8760125dc49c69"
+    },
+    {
+        "image": "https://i.ibb.co/pRgqsr0/cozy-studio-apartment-with-bedroom-living-space.jpg",
+        "location": "222 Beach Avenue, Seaside Condo",
+        "price": 2000,
+        "rating": 4.8,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "square_feet": 1600,
+        "description": "This upscale seaside condo is the epitome of coastal luxury, providing awe-inspiring ocean views from the comfort of your private balcony. Imagine waking up to the gentle sounds of waves and enjoying your morning coffee while witnessing the beauty of the sea. This condo offers the perfect blend of elegant beachside living and modern comfort for a truly remarkable coastal experience.",
+        "for": "FOR RENT",
+        "type": "Mordern Residence in New York",
+        "amenities": {
+            "Garage": true,
+            "Outdoor_Pool": true,
+            "Garden": false,
+            "Security_System": true,
+            "Internet": true,
+            "Telephone": false,
+            "Air_Conditioning": true,
+            "Heating": true,
+            "Fireplace": false,
+            "Balcony": true,
+            "TV_Cable": true
+        },
+        "comments": [
+            {
+                "user": "SophiaWilliams567",
+                "comment": "Heaven by the sea!"
+            },
+            {
+                "user": "DanielJohnson123",
+                "comment": "Perfect oceanfront retreat."
+            }
+        ],
+        "manager_Image": "https://i.ibb.co/kDxmp7D/young-man-wearing-blue-outfit-with-arms-crossed.jpg",
+        "manager_name": "Sam Manager",
+        "manager_id": "65463b80bf8760125dc49c6a"
+    }
+]
